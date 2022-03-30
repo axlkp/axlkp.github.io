@@ -1,8 +1,0 @@
-## Velkommen til min GitHub Pages
-dwujadhwajb djashkdajjdhw jsbd
-
-### Lenker
-[youtube](https://www.youtube.com/)
-
-### Bilder
-![Image](https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg)
